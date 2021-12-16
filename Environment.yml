@@ -5,3 +5,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - datetime
+  - glob
+  - PIL 
+  - warnings 
+  
