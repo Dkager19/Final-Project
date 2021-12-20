@@ -3,3 +3,10 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - datetime 
+  - glob
+  - warnings 
+  - pip: 
+    - PIL 
+    - Image
+  
